@@ -27,13 +27,12 @@ def parse_xml(xml_file):
 script_dir = os.path.dirname(os.path.realpath(__file__))
 
 # Construct the file path
-file_path = os.path.join(script_dir, '00_src/smokers_surrogate_train_all_version2.xml')
+file_path = os.path.join(script_dir, "/workspaces/NLP_final/smokers_surrogate_train_all_version2.xml")
 
 df = parse_xml(file_path)
 print(df)
 
-# Specify the output CSV file path
-output_csv_path = '/Users/robintitus/Desktop/nlp_final/NLP_Medical-SmokerCategorization/01_intermediate-src/df_parsed_5rows.csv'
-
 # Save the DataFrame to a CSV file
-df.to_csv(output_csv_path, index=False)
+df.to_csv("/workspaces/NLP_final/parsed_rows.csv", index=False)
+
+
