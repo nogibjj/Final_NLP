@@ -1,4 +1,0 @@
-ACT 1|||1.txt
-ACT 2|||2.txt
-ACT 3|||3.txt
-ACT 4|||4.txt
