@@ -1,0 +1,917 @@
+Header,Count
+report status ,398
+discharge summary name ,40
+unit number ,100
+admission date ,335
+discharge date ,333
+principal diagnosis ,160
+associated diagnosis ,79
+history of present illness ,235
+past medical history ,206
+medications on admission ,104
+allergies ,153
+family history ,67
+social history ,116
+physical examination ,225
+bloodpressure ,1
+"head , eyes , ears , nose and throat ",3
+cardiac ,21
+laboratory data ,126
+hospital course and treatment ,43
+tr ,175
+dd ,175
+td ,175
+pcc ,9
+other diagnosis ,1
+medications ,61
+habits ,15
+vital signs ,27
+heent ,36
+neck ,24
+lungs ,29
+cardiovascular ,12
+abdomen ,56
+extremities ,71
+diagnostic studies ,3
+hospital course ,208
+disposition ,109
+discharge medications ,123
+dictated by ,77
+attending ,131
+batch ,90
+d ,105
+t ,104
+cc ,198
+associated diagnoses ,30
+active principal procedure ,1
+other procedures ,12
+history and reason for hospitalization ,17
+pmh / psh ,1
+admission labs ,2
+hct ,2
+wbc ,1
+plt ,1
+cre ,1
+k ,1
+na ,1
+bun ,1
+ptt ,2
+pt ,1
+pt-inr ,2
+ua-wbc ,1
+ua-nit ,1
+uas-wbc ,1
+admission chest xray ,1
+admission electrocardiogram ,1
+right bundle branch blockallergies ,1
+review of systems ,36
+blood pressure ,1
+pulse ,3
+sinus rhythm teeth ,1
+no jugular venous distention cardiovascular ,1
+pulmonary ,2
+clear skin ,1
+cyanosis or edema abdomen ,1
+rectal ,13
+heme negative brown stool neuro ,1
+carotid ,2
+brachial ,2
+radial ,2
+ulnar ,2
+femoral ,4
+popiteal ,2
+posterior tibialis ,2
+dorsalis pedis ,2
+none appreciated carotid ,1
+transmitted hospital course ,1
+medications on discharge ,96
+captopril 12.5 mg po tid alprazolam ( xanax ) 1 mg po bid ipratropium inhaler ( atrovent inhaler ) 2 puff inh qid vancomycin hcl 750 mg iv q12h senna tablets 2 tab po bid warfarin sodium ( coumadin ) 5 mg po qd oxycodone 5 mg / acetaminophen 325 mg 1-2 tab po q6-8 h prn pain d / c order instructions ,1
+diet ,49
+activity ,33
+treatments ,2
+via picc line instructions ,1
+follow up ,15
+discharge labs ,3
+condition on discharge ,76
+stable disposition ,1
+date ,2
+reason for admission ,4
+admission medications ,6
+electrocardiogram ,4
+assessment and plan ,3
+captopril 25 mg. p.o. q.i.d. digoxin 0.125 mg. p.o. q.d. lasix 80 mg. p.o. q.d. isordil 20 mg. p.o. at 8:00 a.m. and 1,1
+coumadin 5 mg. p.o. q.h.s. axid 150 mg. p.o. b.i.d. nitro paste 2 in chestopical from bedtime until 8,1
+past surgical history ,61
+report ,30
+dicatated by ,26
+diagnosis ,31
+laboratory examination ,10
+on admission were noted to be as follows ,1
+operations ,2
+name ,60
+special procedures and operations ,28
+ethanol ,1
+cardiovascular exam ,20
+doctors discharge orders ,15
+dictating for ,77
+principal procedure ,72
+admission diagnosis ,13
+identifying data ,2
+cardiac risk factors ,4
+skin ,17
+note ,4
+"on the night prior to admission he was awakened from sleep with severe substernal chest pain radiating to the left arm , accompanied by back pain at about 9",1
+discharge diagnoses ,7
+procedures ,6
+complications ,13
+estimated disability ,2
+physical examination on admission ,9
+laboratory data on admission ,7
+arterial blood gases ,1
+chest x-ray ,4
+her time of death was 1,1
+problems ,1
+surgical history ,2
+medications at home ,3
+postoperative course by systems is as follows ,1
+1. neuro ,2
+2. cardiovascular ,5
+3. pulmonary ,1
+4. gi ,2
+5. gu ,1
+6. infectious disease ,2
+7. heme ,1
+8. endocrine ,1
+escription document ,14
+secondary diagnosis ,7
+identification data ,2
+hypercalcemia ,1
+ivc obstruction ,1
+hypoxia and shortness of breath ,1
+impending spinal cord compression ,1
+medications on transfer ,6
+cor ,3
+neurological examination ,4
+cardiac catheterization showed procedure done 09/08/94 ,1
+rv gram ,1
+follow-up care ,3
+problem list ,2
+heart ,23
+neurological ,13
+laboratory ,9
+follow-up ,13
+laboratory and radiologic data ,3
+1. endocrine ,1
+2. neurological ,1
+3. cardiovascular ,2
+4. pulmonary ,1
+5. gastrointestinal ,2
+6. renal ,1
+7. infectious disease ,1
+discharge instructions ,17
+discharge diagnosis ,37
+current medications ,6
+breasts ,5
+back ,5
+principle diagnosis ,6
+procedure ,3
+general ,17
+identification ,1
+"in september 2004 , the patient converted to aml with philadelphia chromosome 9",1
+gi ,3
+neuro ,9
+access ,1
+admission studies ,1
+hospitalization course ,2
+the remainder of the dictation will be divided by system ,1
+1. oncology ,1
+2. id / pulmonary ,1
+3. hematology ,1
+4. cardiovascular ,1
+5. musculoskeletal ,1
+6. psych ,1
+final diagnoses ,2
+discharge plan ,2
+outpatient followup ,1
+chief complaint ,21
+medications on admit ,2
+she was taken to the operating room at approximately 2,1
+chest ,13
+kub ,2
+ekg ,5
+acc ,7
+other problems ,3
+rheumatoid arthritis ,1
+language ,1
+cranial nerves ,3
+power ,2
+sensory examination ,2
+acuity ,1
+tobacco history ,1
+head examination ,1
+lower extremities ,1
+doctor 's discharge orders ,10
+plan for followup ,1
+labs on admission ,2
+hospital course by system ,5
+1. respiratory ,1
+3. comfort ,1
+the patient died on 09/25/2004 at 12,1
+history of the present illness ,3
+the patient states that the pain began at 10,1
+heart exam ,1
+neurologic exam ,4
+cranial nerve exam ,1
+viith cranial nerve ,1
+motor exam ,1
+cerebellar exam ,2
+she was well at home until 8,1
+adverse drug reactions ,16
+clinical infections ,10
+discharge orders ,6
+follow-up instructions ,1
+"electronically signed aka g lung , m.d. 09/21/2002 16",1
+associated procedures ,15
+"aka g state , m.d. cardiac transplant stemstrictalle medical center electronically signed aka g state , m.d. 11/17/2000 12",1
+"_____________________ aka g fraction , m.d. electronically signed aka g fraction , m.d. 06/24/2000 19",1
+disposition / plan on discharge ,5
+associated procedure ,2
+"head , eyes , ears , nose and throat exam ",2
+extremity exam ,1
+laboratory and radiologic data ( admission ) ,1
+summary ,4
+1. neurologically ,1
+followup ,15
+instructions ,25
+principal diagnoses ,4
+secondary diagnoses ,6
+1 ) cardiovascular ,1
+2 ) neurological / vascular ,1
+3 ) orthopedic ,1
+4 ) gastrointestinal ,1
+5 ) infectious disease ,1
+"6 ) fluids , electrolytes and nutrition ",1
+the patient is to follow up with dr. quown at santusli hospital on the 21st of october 1999 at 10,1
+medications prior to admission ,1
+"in conclusion , by systems ",1
+condition ,7
+service ,50
+admission principal diagnosis ,1
+significant problems ,4
+complications during this admission ,1
+physical exam ,3
+disposition on discharge ,1
+"at this point , a diagnosis of lupus was considered and her ana was 1",1
+1 ) bronchiolitis obliterans organizing pneumonia ,1
+2 ) thrombotic thrombocytopenic purpura ,1
+3 ) renal ,1
+4 ) infectious disease ,1
+5 ) rheumatology ,1
+the patient was admitted with a question of lupus given her ana of 1,1
+gait ,1
+the patient 's past medical history is significant for ,1
+8. social history ,1
+history of present illness / reason for hospitalization ,1
+"head , eyes , ears , nose and throat examination ",1
+cardiovascular examination ,1
+data ,1
+plan ,2
+2. renal ,2
+3. gi ,2
+4. thyroid mass ,1
+his condition is stable and he was discharged with the following medications ,1
+"on postoperative day #1 did complain of a little nausea and vomiting , however , on postop day #2 patient was found unresponsive at 7",1
+since the patient had decided to be do not resuscitate no resuscitation efforts were undertaken and patient was pronounced dead on 11-9-90 at 5,1
+date of birth ,4
+complete blood count ,1
+differential ,1
+urinalysis ,2
+transcranial dopplers ,1
+holter electrocardiogram ,1
+electroencephalogram ,1
+visual field testing ,1
+ther procedures ,1
+"he was later sitting in a chair making multiple attempts to get up , which he subsequently did and promptly fell directly on his face at approximately 11",1
+summary of laboratory and radiological examinations ,1
+1) neurology ,1
+2) cardiovascular ,1
+3) pulmonary ,1
+4) hematology ,1
+5) gastrointestinal ,1
+patient 's past medical history is to besummarized as follows ,1
+operations / procedures ,4
+other diagnoses ,5
+abdominal examination ,1
+rectal examination ,1
+skin examination ,1
+follow up care ,1
+"miss siehjesc is an 85-year-old woman with a past medical history significant for parkinson 's disease of ten years duration , supraventricular tachycardia , and a history of colon carcinoma , who was in her usual state of health until 11",1
+"while the pain was initially intermittent , it became steady at about 1",1
+thorax ,1
+radiology ,1
+doctor ' s discharge orders ,2
+present illness ,2
+he was hospitalized from 6-12-91 to 7-9-91 with a prolonged course notable for ,1
+neurologic ,7
+discharge disposition ,3
+"the head , eyes , ears , nose , throat exam ",1
+the neurological examination ,1
+history and reason for admission ,2
+"head , eyes , ears , nose , throat ",3
+cardiac examination ,1
+carotids ,2
+status at discharge ,1
+list of significant problems ,1
+heent / neck ,1
+"her hospital course was , overall , uncomplicated and notable for the following events ",1
+( 1 ) hematology / oncology ,1
+"( 2 ) fluids , electrolytes and nutrition ",1
+addendum to discharge summary ,1
+mrn ,70
+age ,63
+registration date ,63
+pcp name ,49
+provider number ,49
+history / reason for hospitalization ,2
+cc,1
+room ,46
+discharge patient on ,45
+will d / c order be used as the d / c summary ,45
+code status ,21
+/disposition ,2
+follow up appointment ( s ) ,44
+admit diagnosis ,41
+operations and procedures ,50
+brief resume of hospital course ,44
+on admission ,2
+brief resume of hospital course addendum 1 ,1
+addended by ,2
+additional comments ,44
+discharge condition ,49
+to do / plan ,46
+entered by ,46
+admitting labs were ,1
+the patient 's discharge medications include the following ,1
+special procedures ,1
+work disability and probable duration ,1
+past medical / surgical history ,1
+"she is to receive rehabilitation to increase her mobility and strength , rehabilitation potential is good , and she is to receive the following medications at that facility ",1
+doctors discharge orders and medications on discharge ,1
+return to work ,12
+allergy ,30
+lab data radiology ,1
+dictating physician ,1
+attending physician ,1
+physical exam on admission ,2
+laboratory evaluation on admission ,1
+at approximately 4,1
+primary diagnosis ,3
+history of the present illness and reason for hospitalization ,1
+ob-gyn history ,1
+"the patient was extubated at approximately 1:20 p.m. on 6/10/05 , and was pronounced dead on 6/10/05 at 1",1
+alert overridden ,20
+serious interaction ,10
+reason for override ,42
+override notice ,16
+previous override information ,7
+potentially serious interaction ,37
+number of doses required ( approximate ) ,13
+override added on 01/07/04 by,1
+walking as tolerated follow up appointment ( s ) ,1
+labs at osh c cr ,1
+gluc ,1
+ck ,1
+mb ,1
+2) endo ,1
+3) pulm ,1
+4) gi ,1
+5) renal ,1
+6) proph ,1
+hospital course and outcome ,1
+history of present illness and reason for hospitalization ,2
+she was generally doing well with resolution of her temperature until 4/1/97 at 9,1
+she was certified dead at 9,1
+genitourinary ,1
+patient expired after the endotracheal tube was withdrawn at 6,1
+word disability and probably duration ,1
+hospital course by problem ,2
+the patient underwent a diagnostic cardiac catheterization on 11/2/92 which showed the following ,1
+past obstetrical history ,3
+pelvic ,3
+operative procedures ,1
+brief history ,1
+date of operation ,1
+abdominal computerized tomography scan ,1
+doctors discharge instructions ,1
+impression ,2
+1. cardiovascular ,2
+ischemia ,2
+pump ,2
+rate and rhythm ,1
+2. gi ,1
+3. endocrine ,1
+4. heme ,1
+5. id ,1
+6. pulmonary ,1
+7. renal ,1
+to do plan ,1
+hold if ,7
+mysoline ( primidone ) 50 mg po qd insulin 70/30 ( human ) 12 units sc qam hold if ,1
+override added on 08/28/04 by ,1
+v / s ,1
+ecg ,3
+cxr ,3
+v / q ( prelim ) ,1
+a / p ,4
+reason for hospitalization ,4
+the time of death was 5,1
+course in hospital ,1
+he was declared dead at 7,1
+"in addition to the above , she has the following additives ",1
+the patient 's laboratory data on admission is as follows ,1
+1) mental status changes ,1
+2) right lower extremity cellulitis ,1
+3) cardiac ,1
+4) status post fall ,1
+5) atrial fibrillation ,1
+6) abnormal liver function tests ,1
+1. vulvectomy ,1
+cause of death ,2
+time of death ,1
+"throughout the day on 5/18/95 , his blood pressure continued to fall in the 80s , then 70s , then 60s , and at 3",1
+he was pronounced dead at 3,1
+redictation history ,1
+"head , neck ",1
+issues on admission ,1
+his cardiac risk factors include ,1
+"electronically signed ao rielnaka folk , m.d. 09/24/1998 11",1
+respiratory ,3
+dermatology ,1
+admission laboratory data ,2
+operation ,1
+cause of death and principal diagnosis ,1
+summary of laboratory and radiologic examinations ,2
+principal procedures ,3
+medications at the time of discharge ,1
+history ,2
+titer ,1
+titer stable at 1,1
+"his head , eyes , ears , nose , throat ",1
+head cat-scan ,1
+2. kaposi 's sarcoma ,1
+3. pancytopenia ,1
+4. chronic vzv ,1
+5. aids / disposition ,1
+laboratory data at discharge ,1
+by problems ,1
+nodes ,3
+discharge follow-up ,2
+will d/c order be used as the d/c summary ,1
+pupils ,1
+mouth ,1
+cbc ,1
+at 2,1
+other ,1
+cefuroxime axetiladmit diagnosis ,1
+nonebrief resume of hospital course ,1
+id ,2
+pulm ,1
+code ,2
+associated medical problems include ,1
+addendum ,4
+"all cvvh and the ventilator was removed and the patient spontaneously passed away on 5-2-98 , at 4",1
+radiologic studies ,1
+1. kub ,1
+2. chest x-ray ,1
+3. abdominal / pelvic ct ,1
+diagnoses ,1
+clinical infection ,1
+other medical problems ,1
+the patient is to be discharge at about 12,1
+on the day of admission at 5,1
+at 7,1
+she had been seen ______________ by a friend and felt to benormal at 2-3,1
+impression on admission ,1
+"he was admitted to the medical intensive care unit while his initial care that first night was , by system ",1
+"at discharge , the active issues still to be dealt with at ant sonroeinland medical center are ",1
+history of present illness / reason for admission ,1
+final diagnosis ,1
+pelvis ,1
+provider ,28
+benefits assigned ,20
+discharge date / time ,23
+discharge status ,27
+transferred condition on discharge ,1
+patient states complaint ,27
+cobra form ,1
+admitting physician ,1
+receiving institution ,1
+patient problem list ,1
+pertinent physical findings on admission ,1
+laboratory results on admission ,1
+medications at the time of admission ,1
+assessment ,3
+causative factors ,1
+the total bypass time ,1
+total crossclamp time ,1
+at approximately 7,1
+further attempts at resuscitation were unsuccessful and the patient was pronounced dead at 8,1
+other laboratories that were notable ,1
+other notable tests ,1
+discharge regimen ,1
+current status ,1
+significant past medical history includes ,1
+"history of urinary stones , and repeat urinary tract infections ",1
+orthopedic examination ,1
+preoperative consultations ,1
+secondary procedures ,1
+plans and instructions ,1
+the patient was swimming at 4,1
+of greatest note on his pulse examination ,1
+the impression ,1
+on 5-28-92 at 12,1
+findings were ,1
+identifying data and chief complaint ,1
+drug allergies ,1
+in summary ,3
+head and neck exam ,1
+genitourinary exam ,1
+the patient had the following radiological studies ,1
+"electronically signed aka g sieh , m.d. 03/09/2002 07",1
+pcp notified by md ,14
+direct contact with pcp benefits assigned ,1
+treatment rendered ,24
+morphine discharge medications ,1
+"disposition , follow up and instructions to patient ",25
+estimated disability and probable duration ,2
+this patient is a 5 year old white female with a history of type i renal tubular acidosis on nephrocalcinosis who was admitted to noughwell entanbon health of washington on 9/5/93 at 21,1
+admission diagnosis at ni hospital 's ,1
+oral cyanosis and shallow respirations were noted on 9/7/93 at 2,1
+therefore the patient was intubated at 3,1
+"cardiovascular stable , significant hypertension was noted on 9/7/93 at 5",1
+"at labor day , 9",1
+"at 9/6/93 , 2",1
+"on 9/6/93 , 22",1
+"at 9/7/93 , 1",1
+on 9/7/93 at 4,1
+at 9/7/93 at 5,1
+"on 9/7 , 5",1
+the patient was taking po initially until 9/6/93 at 17,1
+"valium was given at 9/7/93 , 00",1
+"finally , fairm of ijordcompmac hospital transport team was called and transport team arrived on 9/7/93 , 6",1
+"admission to the pediatric intensive care unit at fairm of ijordcompmac hospital was 9/7/93 , 11",1
+fluids / electrolytes/nutrition ,1
+"pediatric nephrology recommended on 9/7/93 , 5",1
+gastrointestinal ,1
+hematologic ,1
+renal ,3
+cerebral blood flow was done on 9/7/93 at 2,1
+infectious disease ,2
+md ,2
+discharged condition on discharge ,2
+history of present illness and hospital course ,1
+he arrived at the fairm of ijordcompmac hospital at 02,1
+his blood pressure fell to 60 systolic as he was being transferred to the computerized tomography scan table ; the scan was aborted and he was taken directly to the operating room at 03,1
+intraoperative findings were as follows ,1
+"respirations 22 , pulse 96 , systolic pressure 100 , head , eyes , ears , nose , throat examination ",1
+"electrolytes notable for potassium 4.2 , bun 28 , creatinine 1.0 , hematocrit 44.4 , white blood count 8.6 , chest x-ray post biopsy ",1
+her support was withdrawn and she expired on 2/17/94 at 9,1
+edited ,1
+her respirations ceased and she died at 10,1
+because of the extensiveness of ms. abreun 's hospital course it will be organized by system ,1
+1. neurological ,1
+2. pulmonary ,1
+4. renal ,1
+gu ,1
+1 ) oncology ,1
+2 ) infectious disease ,1
+3 ) heme ,1
+4 ) fen ,1
+condition upon discharge ,1
+follow up appointment with die anoort and tomedankell care on 11/18/00 at 9,1
+follow up appointments ,1
+the operation included the following ,1
+on the day of discharge the glucose obtained at 7,1
+medication ,1
+strength ,1
+reflexes ,1
+plantar responses ,1
+sensory ,1
+impression and plan ,2
+"electronically signed li rijarred class , m.d. 03/27/2002 12",1
+vascular ,1
+laboratory data and radiologic data ,1
+neurologic examination ,1
+gynecologic ,1
+social ,1
+exercise treadmill ,1
+history of syphilis ,1
+principal discharge diagnosis ,9
+principal procedure or operation ,9
+associated procedures or operations ,8
+postpartum diagnostic procedures ,8
+postpartum therapeutic procedures ,7
+other postpartum therapies ,7
+height hospital course ( include complications if any ) ,1
+during her labor she encountered the following complication ( s ) ,9
+during her delivery she encountered the following complication ( s ) ,9
+postpartum she encountered the following complication ( s ) ,9
+"discharge orders ( medications instructions to patient , follow-up care ) ",4
+discharge activity ,10
+discharge diet ,9
+postpartum disposition ,9
+postpartum care site ,9
+postpartum return appointment ( days ) ,8
+breast feeding at discharge ,8
+postpartum rh immune globulin ,5
+postpartum measles / mumps/rubella vaccine ,5
+medication ( s ) on discharge ,8
+electronically signed ,9
+date of discharge ,4
+"electronically signed oldfabeth l kidney , m.d. 08/22/2005 09",1
+override added on 09/07/02 by ,1
+niddm operations and procedures ,1
+tte brief resume of hospital course ,1
+"electronically signed miezetri nimiry pop , m.d. 08/01/2005 18",1
+pmh ,5
+meds ,4
+all ,4
+sh ,1
+fh ,2
+pe ,2
+gen ,1
+cv ,5
+abd ,2
+ext ,2
+studies ,1
+cxr 1/21 ,1
+ct pe 2/21 ,1
+echo 2/22 ,1
+ppx ,2
+dispo ,1
+full code additional comments ,2
+override added on 10/30/03 by ,1
+oa operations and procedures ,1
+cv isch ,1
+*** vasc ,1
+*** endo ,1
+b-3 reason for override ,2
+rf ,1
+pt also counselled re ,1
+"chronic obstructive pulmonary disease , with persistent hypoxemia hypertension hyponatremia history of present illness ",1
+0706 report ,1
+significant medical problems include ,1
+prior surgery includes ,1
+smoking ,1
+alcohol use ,1
+substance abuse ,1
+allergen exposure ( blood products/ pregnancy ) ,1
+exercise ,1
+occupation ,1
+marital status ,1
+bp ,1
+p ,1
+sao2 ,1
+temp ,1
+resp ,1
+ht ,1
+wt ,1
+exam ,1
+heen t ,1
+airway ,1
+teeth ,1
+gu / rectal ,1
+peripheral vascular ,1
+radials ,1
+tibial ,1
+electronically prepared by ,1
+"electronically signed roaon z stage , m.d. 08/02/2006 15",1
+hospital course ( include complications if any ) ,8
+postpartum measles / mumps / rubella vaccine ,3
+imaging studies ,1
+preoperative cardiac status ,1
+labs ,3
+hematology ,1
+findings ,1
+follow up appointment ,1
+by dr. linkekotemones on 5/26/01 in her office ,1
+"electronically signed marinicaitl linkekotemones , m.d. 06/13/2001 15",1
+date of admission ,1
+dob ,2
+"electronically signed rach hy breutznedeaisscarvwierst , m.d. 05/20/2001 18",1
+past gyn history ,3
+disposition and discharge medications ,1
+history and reason for the hospitalization ,1
+"electronically signed roaon z south , m.d. 03/15/2004 11",1
+"electronically signed iard tibelledie fat , m.d. 02/08/2005 18",1
+diagnosis on discharge ,1
+meds on admission ,1
+ob history ,1
+gyn history ,2
+"electronically signed naeelv fongcloz , m.d. 06/03/2003 15",1
+"tylenol ( acetaminophen ) 325-650 mg po q4h prn pain , headache , temperature greater than ",1
+phoen ,1
+hpi ,1
+meds at home ,1
+fh/ sh ,1
+labs/ studies ,1
+-- echo ( 7/8 ) ,1
+hosp course ,1
+endo ,1
+full code heme ,1
+fen ,1
+past ob history ,1
+patient 's hospital course is as follows ,1
+exam on arrival in the lo hospital emergency room ,1
+on arrival at the lo hospital emergency room ,1
+is as follows ,1
+other notalbe labs ,1
+1. gi ,1
+he was subsequently seen by the gi team who performed an upper endoscopy which demonstrated the following ,1
+a ,1
+b ,1
+rhythm ,1
+c ,1
+valves ,1
+his final medications on discharge were as follows ,1
+she was in her usual state of health until around 12,1
+cerebella ,1
+head computerized tomography scan on 10/19 ,1
+head computerized tomography scan of 10/23 ,1
+pulmonary angiogram ,1
+disability ,1
+associated diagnoses : ,1
+principal procedure : ,2
+past surgical history : ,1
+family history : ,1
+physical examination : ,2
+condition on discharge : ,1
+medications on discharge : ,1
+doctors discharge orders / instrctions ,1
+"electronically signed vita thosterwen linkekotemones , m.d. 10/13/2000 12",1
+"she was transferred to the floor on 1/5/03 , and by system ",1
+1. id ,1
+4. neurological ,1
+admitting diagnosis ,3
+she will need to follow up with dr. uph on 02/21/03 at 9,1
+additional diagnosis ,1
+"the patient has been scheduled to have the second part of the sleep study done on june 18 , 2006 , at 8",1
+heart sounds ,1
+lab values ,1
+general examination ,1
+"electronically signed tianazshara mass , m.d. 03/05/2000 21",1
+course of hospitalization after surgery on 06/11/05 to 06/18/05 includes ,1
+principle procedure ,1
+the patient was pronounced dead at 6,1
+medications upon admission ,1
+"electronically signed oazette n gravis , m.d. 01/02/2005 10",1
+past gynecological history ,1
+pmhx ,1
+social hx ,1
+ros ,1
+troponin ,1
+adenosine mibi ,1
+1) chest tightness ,1
+2) gi ,1
+3) disp ,1
+she was discharged home with the following medications ,1
+tobacco ,1
+alcohol ,1
+2. infectious disease ,1
+4. shortness of breath ,1
+5. derm ,1
+"electronically signed ieve manual , md 12/23/2004 11",1
+past medical history / past surgical history ,1
+lift restrictions ,2
+pulses at baseline ( by palp ) ,1
+psh ,1
+pad sh ,1
+chest x-ray study ,1
+admission laboratory studies ,1
+standardized discharge instructions ,11
+primary anesthesia ,8
+vaginal delivery ,5
+laceration ,2
+"vaginal , 1st degree , 2nd degree , perineal , 1st degree , 2nd degree , 3rd degree , 4th degree , periurethral placenta ",1
+delivery ,10
+staff obstetrician ( supervising ) ,5
+weight ,9
+sex ,9
+override added on 08/08/01 by ,1
+1 ) gi ,1
+2 ) cv ,1
+3 ) id ,1
+4 ) gu ,1
+5 ) fen ,1
+disposition plans ,1
+notified by md ,1
+accepting / dh admitting physician ,1
+preliminary report revised with addendum ,1
+follow up service ,13
+addendum section progress note ,2
+"electronically signed malcrin cot , m.d. 11/29/2000 22",1
+discharge note date / time ,3
+"electronically signed mibet j alleshani hudes , m.d. 02/26/2001 08",1
+date / time ,2
+revised with addendum ,1
+gerd operations and procedures ,1
+nka admit diagnosis ,2
+placenta ,5
+certified nurse midwife ,1
+edc ,4
+maternal transfer ,11
+initial newborn exam ,9
+delivery date ,8
+end ,1
+history and reason for surgery ,1
+medication on discharge ,1
+additional instructions ,1
+deficiency admit diagnosis ,1
+"to schedule an appt. , please call ( 085 ) 062-8570 between 8a.m. and 4",1
+expired on ,1
+she expired at 7,1
+anesthesia ,1
+spontaneous placenta ,1
+spontaneous condition ,3
+normal staff obstetrician ( supervising ) ,3
+indications for induction ,3
+"hypertension , diabetes , ,other - macrosomia maternal transfer ",1
+baby 1 mrn ,1
+abdominal pain treatment rendered ,1
+physical examination upon admission ,2
+laboratory data upon admission ,1
+ekg upon admission ,1
+chest x-ray upon admission ,1
+1. pulmonary / infectious disease ,1
+/id ,1
+4. fen ,1
+5. prophylaxis ,1
+6. code status ,1
+7. disposition ,1
+he was to follow up with dr. malta at firmert hospital on 07/23/04 at 3,1
+override added on 05/27/05 by ,1
+leuprolide admit diagnosis ,1
+a set ,1
+1. cv ,1
+( p ) most recent echo ,1
+2. endo ,1
+3. msk ,1
+at 10,1
+cesarean status ,3
+urgency ,3
+indications ,3
+uterine incision type ,3
+estimated edc ,7
+principal diagnosis : ,1
+5-29-00 ,1
+"electronically signed stellrish loisra light , m.d. 09/06/2000 04",1
+potassium chloride policy ,1
+pcp benefits assigned ,1
+past medical and surgical history ,2
+1. right sided sciatica procedure ,1
+stable patient states complaint ,1
+laboratories on admission ,1
+"electronically signed nanespebillra n sites , m.d. 02/10/2004 14",1
+"electronically signed oie limor warm , m.d. 05/18/2004 11",1
+"ms. seielspaldsna is a 35-year-old , g2 , p1 , at 42 1/7 weeks gestation admitted to the jeffbarnes memorial hospital labor and delivery unit on 06/22/95 at 5",1
+significant for the following ,1
+prenatal labs ,1
+vaginal exam ,1
+the baby was delivered at 11,1
+"the patient had a spontaneous delivery of an intact placenta , schultze mechanism , at 11",1
+epidural vaginal delivery ,3
+undelivered cesarean status ,1
+primary urgency ,1
+emergent indications ,1
+incision type ,1
+manual condition ,2
+complications of labor ,1
+the patient underwent cardiac catheterization which revealed the following ,1
+svd operations and procedures ,1
+spontaneous episiotomy ,3
+median placenta ,3
+secondary anesthesia ,1
+local procedures ,1
+follow up and instructions to patient ,1
+tab po daily diet ,1
+partial weight-bearing ,1
+delivering resident / staff ,1
+ppbcm ,1
+please call your ob or go to the ed for any of teh following ,1
+epidural secondary anesthesia ,1
+local vaginal delivery ,1
+normal delivering resident / staff ,1
+g2 t0 p0 a1 l0 estimated edc ,1
+needs to speak w/ pcp in order to switch provider diagnosis ,1
+b and w and work w/ therapist re,1
+mvp psh ,1
+mg po bid diet ,1
+- mra kidney ,1
+- cxr ,1
+- echo ,1
+prelim ,1
+"ef 55-60 , ? septal flattening , mild tr and mr , trace effusion -24h urine study ",1
+phenylpiperidine potentially serious interaction ,1
+mg po qd hold if ,3
+echo 08/18 ,1
+disp ,1
