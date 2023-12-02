@@ -8,9 +8,7 @@ def parse_xml(xml_file):
     data = []
 
     # Iterate through each record in the XML
-    for i, element in enumerate(root):
-        if i >= 5:  # Only process the first 5 records
-            break
+    for element in root:
         record_data = {}
         record_data['Record ID'] = element.attrib['ID']  # Get the ID attribute
         # Get the SMOKING status attribute
@@ -21,18 +19,21 @@ def parse_xml(xml_file):
         record_data['Text'] = text_content.strip() if text_content else None
         data.append(record_data)
 
-    return pd.DataFrame(data)
+    df = pd.DataFrame(data)
+    return df
 
-# Get the directory of the current script
-script_dir = os.path.dirname(os.path.realpath(__file__))
+xml = '00_src/smokers_surrogate_train_all_version2.xml'
+df = parse_xml(xml)
 
-# Construct the file path
-file_path = os.path.join(script_dir, "/workspaces/NLP_final/smokers_surrogate_train_all_version2.xml")
+# Extracting head, tail, and a sample
+head = df.head(5)
+tail = df.tail(5)
+sample = df.sample(5)
 
-df = parse_xml(file_path)
-print(df)
+# Saving to CSV
+df.to_csv("01_intermediate-files/parsed_rows_raw.csv", index=False)
+head.to_csv("01_intermediate-files/parsed_rows_head.csv", index=False)
+tail.to_csv("01_intermediate-files/parsed_rows_tail.csv", index=False)
+sample.to_csv("01_intermediate-files/parsed_rows_sample.csv", index=False)
 
-# Save the DataFrame to a CSV file
-df.to_csv("/workspaces/NLP_final/parsed_rows.csv", index=False)
-
-
+##Number of rows in XML file: 398
